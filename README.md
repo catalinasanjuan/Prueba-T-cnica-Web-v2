@@ -28,17 +28,18 @@ Un sistema de gestión de usuarios con todas las funciones, desarrollado con Rea
 
 1. Clonar el repositorio: https://github.com/catalinasanjuan/Prueba-T-cnica-Web-v2.git
 2. Instalar dependencias:
-   ```bash
+   ```
    npm install
    ```
 
 3. Configurar las variables de entorno:
+
+   ```
    User: admin@example.com
    password:123456
-   ```
 
 4. Iniciar el servidor de desarrollo:
-   ```bash
+   ```
    npm run dev
    ```
 
